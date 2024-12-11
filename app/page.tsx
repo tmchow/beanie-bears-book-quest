@@ -115,17 +115,10 @@ export default function Home() {
         return newStreak;
       });
       await audioManager.playCorrect();
-      setTimeout(() => {
-        setShowBear(false);
-        setFetchTrigger(prev => prev + 1);
-      }, 2000);
     } else {
       setStreak(0);
       await audioManager.playIncorrect();
-      setTimeout(() => {
-        setShowBear(false);
-        setShowNextButton(true);
-      }, 1500);
+      setShowNextButton(true);
     }
   };
 
@@ -152,16 +145,17 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-purple-50 dark:from-purple-950 dark:to-blue-950 p-8 font-fredoka">
-      <header className="text-center mb-12">
+      <header className="text-center mb-8 sm:mb-12">
         <div className="relative max-w-3xl mx-auto">
-          <h1 className="text-4xl font-bold text-purple-600 dark:text-purple-300 mb-6 animate-float font-nunito">
+          <h1 className="text-3xl sm:text-4xl font-bold text-purple-600 dark:text-purple-300 mb-4 sm:mb-6 animate-float font-nunito">
             Beanie Bears Book Quest
           </h1>
           
           <button
             onClick={() => setShowSettings(true)}
-            className="absolute right-0 top-0 p-2 text-purple-600 dark:text-purple-300 
-              hover:bg-purple-100 dark:hover:bg-purple-800/50 rounded-full transition"
+            className="fixed bottom-6 left-6 z-40 p-3 text-purple-600 dark:text-purple-300 
+              bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm
+              hover:bg-purple-100 dark:hover:bg-purple-800/50 rounded-full transition shadow-lg"
           >
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" 
               stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -203,26 +197,26 @@ export default function Home() {
           )}
           
           {isClient && (
-            <div className="bg-white/50 dark:bg-gray-800/50 rounded-xl p-4 backdrop-blur-sm">
-              <div className="flex items-center justify-between">
-                <div className="flex gap-8">
+            <div className="bg-white/50 dark:bg-gray-800/50 rounded-xl p-3 sm:p-4 backdrop-blur-sm">
+              <div className="flex flex-wrap items-center justify-between gap-4">
+                <div className="flex flex-wrap gap-4 sm:gap-8 justify-center sm:justify-start flex-1">
                   <div className="flex flex-col items-center">
-                    <span className="text-sm text-purple-600 dark:text-purple-300 font-medium">Score</span>
-                    <span className="text-2xl font-bold text-purple-700 dark:text-purple-200">
+                    <span className="text-xs sm:text-sm text-purple-600 dark:text-purple-300 font-medium">Score</span>
+                    <span className="text-xl sm:text-2xl font-bold text-purple-700 dark:text-purple-200 leading-tight">
                       {score}
                     </span>
                   </div>
                   
                   <div className="flex flex-col items-center">
-                    <span className="text-sm text-purple-600 dark:text-purple-300 font-medium">Current Streak</span>
-                    <span className="text-2xl font-bold text-purple-700 dark:text-purple-200">
+                    <span className="text-xs sm:text-sm text-purple-600 dark:text-purple-300 font-medium">Current Streak</span>
+                    <span className="text-xl sm:text-2xl font-bold text-purple-700 dark:text-purple-200 leading-tight">
                       {streak}
                     </span>
                   </div>
                   
                   <div className="flex flex-col items-center">
-                    <span className="text-sm text-purple-600 dark:text-purple-300 font-medium">Best Streak</span>
-                    <span className="text-2xl font-bold text-purple-700 dark:text-purple-200">
+                    <span className="text-xs sm:text-sm text-purple-600 dark:text-purple-300 font-medium">Best Streak</span>
+                    <span className="text-xl sm:text-2xl font-bold text-purple-700 dark:text-purple-200 leading-tight">
                       {bestStreak}
                     </span>
                   </div>
@@ -231,8 +225,8 @@ export default function Home() {
                 <button
                   onClick={handleReset}
                   className="bg-purple-200 text-purple-700 dark:bg-purple-800 dark:text-purple-200 
-                    px-4 py-2 rounded-full hover:bg-purple-300 dark:hover:bg-purple-700 
-                    transition transform hover:scale-105 text-sm font-medium"
+                    px-3 sm:px-4 py-2 rounded-full hover:bg-purple-300 dark:hover:bg-purple-700 
+                    transition transform hover:scale-105 text-xs sm:text-sm font-medium ml-auto"
                 >
                   Restart Game
                 </button>
@@ -334,6 +328,12 @@ export default function Home() {
           <FeedbackAnimation 
             isCorrect={isCorrect} 
             streak={streak}
+            onComplete={() => {
+              setShowBear(false);
+              if (isCorrect) {
+                setFetchTrigger(prev => prev + 1);
+              }
+            }}
           />
         )}
       </AnimatePresence>

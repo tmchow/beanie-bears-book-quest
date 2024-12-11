@@ -1,10 +1,12 @@
 'use client';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
+import { useState, useEffect } from 'react';
 
 interface FeedbackAnimationProps {
   isCorrect: boolean;
   streak?: number;
+  onComplete: () => void;
 }
 
 const getStreakEmoji = (streak: number): string => {
@@ -50,17 +52,34 @@ const getRandomIncorrectMessage = (): string => {
   return incorrectMessages[randomIndex];
 };
 
-export default function FeedbackAnimation({ isCorrect, streak = 0 }: FeedbackAnimationProps) {
+export default function FeedbackAnimation({ isCorrect, streak = 0, onComplete }: FeedbackAnimationProps) {
+  const [isVisible, setIsVisible] = useState(true);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsVisible(false);
+      onComplete();
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, [onComplete]);
+
+  const handleOverlayClick = () => {
+    setIsVisible(false);
+    onComplete();
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      className="fixed inset-0 flex items-center justify-center pointer-events-none z-50"
+      animate={{ opacity: isVisible ? 1 : 0 }}
+      transition={{ duration: 0.2 }}
+      className="fixed inset-0 flex items-center justify-center z-50"
+      onClick={handleOverlayClick}
     >
       <div className="absolute inset-0 bg-black/30" />
       
-      <motion.div className="relative z-10">
+      <div className="relative z-10">
         {isCorrect ? (
           <motion.div
             initial={{ scale: 0, rotate: -10 }}
@@ -120,7 +139,7 @@ export default function FeedbackAnimation({ isCorrect, streak = 0 }: FeedbackAni
             </div>
           </motion.div>
         )}
-      </motion.div>
+      </div>
     </motion.div>
   );
 } 
