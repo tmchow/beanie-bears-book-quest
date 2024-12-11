@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="256" cy="256" r="256" fill="#8B5CF6"></circle>
+  
+  <!-- Bear face -->
+  <circle cx="256" cy="256" r="180" fill="#855E42"></circle>
+  
+  <!-- Inner face -->
+  <circle cx="256" cy="276" r="120" fill="#B87C4C"></circle>
+  
+  <!-- Ears -->
+  <circle cx="146" cy="146" r="50" fill="#855E42"></circle>
+  <circle cx="366" cy="146" r="50" fill="#855E42"></circle>
+  <circle cx="146" cy="146" r="30" fill="#5C4033"></circle>
+  <circle cx="366" cy="146" r="30" fill="#5C4033"></circle>
+  
+  <!-- Eyes -->
+  <circle cx="206" cy="236" r="20" fill="#000000"></circle>
+  <circle cx="306" cy="236" r="20" fill="#000000"></circle>
+  <circle cx="200" cy="230" r="8" fill="#FFFFFF"></circle>
+  <circle cx="300" cy="230" r="8" fill="#FFFFFF"></circle>
+  
+  <!-- Nose -->
+  <ellipse cx="256" cy="276" rx="30" ry="20" fill="#333333"></ellipse>
+  
+  <!-- Happy mouth -->
+  <path d="M206 306 Q256 346 306 306" stroke="#333333" stroke-width="12" fill="none"></path>
+  
+  <!-- Rosy cheeks -->
+  <circle cx="186" cy="276" r="20" fill="#FFB6C1" fill-opacity="0.5"></circle>
+  <circle cx="326" cy="276" r="20" fill="#FFB6C1" fill-opacity="0.5"></circle>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>

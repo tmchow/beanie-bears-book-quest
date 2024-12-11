@@ -1,0 +1,27 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main head -->
+  <circle cx="100" cy="100" r="80" fill="#855E42"/>
+  
+  <!-- Ears -->
+  <circle cx="45" cy="45" r="25" fill="#855E42"/>
+  <circle cx="155" cy="45" r="25" fill="#855E42"/>
+  <circle cx="45" cy="45" r="15" fill="#5C4033"/>
+  <circle cx="155" cy="45" r="15" fill="#5C4033"/>
+  
+  <!-- Inner face -->
+  <circle cx="100" cy="105" r="55" fill="#B87C4C"/>
+  
+  <!-- Sad eyes -->
+  <path d="M67 90 Q75 85 83 90" stroke="#000000" stroke-width="4" fill="none"/>
+  <path d="M117 90 Q125 85 133 90" stroke="#000000" stroke-width="4" fill="none"/>
+  
+  <!-- Nose -->
+  <ellipse cx="100" cy="105" rx="15" ry="10" fill="#333333"/>
+  
+  <!-- Sad mouth -->
+  <path d="M75 125 Q100 115 125 125" stroke="#333333" stroke-width="4" fill="none"/>
+  
+  <!-- Tears -->
+  <path d="M70 95 L65 110" stroke="#89CFF0" stroke-width="3"/>
+  <path d="M130 95 L135 110" stroke="#89CFF0" stroke-width="3"/>
+</svg> 

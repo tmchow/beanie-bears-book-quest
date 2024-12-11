@@ -1,0 +1,1295 @@
+{
+    "metadata": {
+      "totalQuestions": 76,
+      "books": [
+        {
+          "title": "When You Trap a Tiger",
+          "questionCount": 40
+        },
+        {
+          "title": "Shiny Misfits",
+          "questionCount": 36
+        }
+      ]
+    },
+    "questions": [
+      {
+        "id": 1,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann's dad makes her fried chick'n for dinner, which is Vegan fake chicken, her favorite.",
+        "type": "true-false",
+        "pageReference": 2,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 2,
+        "bookTitle": "Shiny Misfits",
+        "question": "Who choreographed Bay Ann's dance for the school's Halloween Idol?",
+        "type": "multiple-choice",
+        "pageReference": 4,
+        "correctAnswer": "Ms. Dawn",
+        "choices": [
+          "Ms. Dawn",
+          "Michelle",
+          "Ms. Palumbo",
+          "Ms. Thompson",
+          "Ms. Rodriguez",
+          "Mr. Johnson",
+          "Ms. Williams",
+          "Ms. Garcia",
+          "Ms. Martinez",
+          "Ms. Anderson"
+        ]
+      },
+      {
+        "id": 3,
+        "bookTitle": "Shiny Misfits",
+        "question": "What is Bay Ann dressing as for Halloween?",
+        "type": "multiple-choice",
+        "pageReference": 5,
+        "correctAnswer": "a tap-dancing Zombie Bride",
+        "choices": [
+          "a tap-dancing Zombie Bride",
+          "a dancing skeleton",
+          "a vampire ballerina",
+          "a ghost dancer",
+          "a musical witch",
+          "a hip-hop werewolf",
+          "a jazz-dancing mummy",
+          "a dancing black cat",
+          "a ballet phantom",
+          "a swing-dancing demon"
+        ]
+      },
+      {
+        "id": 4,
+        "bookTitle": "Shiny Misfits",
+        "question": "Ms. Palumbo warns the kids in her class who will most likely beat them in the Halloween Idol?",
+        "type": "multiple-choice",
+        "pageReference": 18,
+        "correctAnswer": "A cute kindergartner/A 5 year old",
+        "choices": [
+          "A cute kindergartner/A 5 year old",
+          "A talented third grader",
+          "The school choir",
+          "The dance team",
+          "A musical prodigy",
+          "The drama club",
+          "A professional performer",
+          "The band members",
+          "A gifted first grader",
+          "The cheerleading squad"
+        ]
+      },
+      {
+        "id": 5,
+        "bookTitle": "Shiny Misfits",
+        "question": "What snack do Bay Ann & Davey M ask for before going to Michelle's house to study?",
+        "type": "multiple-choice",
+        "pageReference": 22,
+        "correctAnswer": "Hot Pockets",
+        "choices": [
+          "Hot Pockets",
+          "Pizza Bites",
+          "Mozzarella sticks",
+          "Chicken nuggets",
+          "Popcorn",
+          "Trail mix",
+          "Fruit snacks",
+          "Granola bars",
+          "Cookie bites",
+          "Cheese crackers"
+        ]
+      },
+      {
+        "id": 6,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann's nickname for her mom is Monster.",
+        "type": "true-false",
+        "pageReference": 24,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 7,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann's dad calls her 'gum drop' for a nickname?",
+        "type": "true-false",
+        "pageReference": 23,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 8,
+        "bookTitle": "Shiny Misfits",
+        "question": "What was Alyee Maq's talent in the talent show?",
+        "type": "multiple-choice",
+        "pageReference": 32,
+        "correctAnswer": "Playing the piano",
+        "choices": [
+          "Playing the piano",
+          "Playing the violin",
+          "Singing",
+          "Dancing",
+          "Magic tricks",
+          "Juggling",
+          "Storytelling",
+          "Comedy routine",
+          "Gymnastics",
+          "Poetry reading"
+        ]
+      },
+      {
+        "id": 9,
+        "bookTitle": "Shiny Misfits",
+        "question": "Who won the Halloween Idol?",
+        "type": "multiple-choice",
+        "pageReference": 38,
+        "correctAnswer": "Bay Ann",
+        "choices": [
+          "Bay Ann",
+          "The bumblebee",
+          "Alyee Maq",
+          "Michelle",
+          "Davey Matt",
+          "The kindergartner",
+          "The choir group",
+          "The dance team",
+          "The drama club",
+          "The band ensemble"
+        ]
+      },
+      {
+        "id": 10,
+        "bookTitle": "Shiny Misfits",
+        "question": "How did Bay Ann answer to let Michelle know it was her when Michelle asks on the computer if this is Bay Ann or her 'mom being snoopy'?",
+        "type": "multiple-choice",
+        "pageReference": 46,
+        "correctAnswer": "It's MEOW",
+        "choices": [
+          "It's MEOW",
+          "It's me",
+          "The real Bay Ann",
+          "Not mom",
+          "Your friend",
+          "The one and only",
+          "You know who",
+          "Bay Bay",
+          "The original",
+          "Definitely not mom"
+        ]
+      },
+      {
+        "id": 11,
+        "bookTitle": "Shiny Misfits",
+        "question": "Why does Alyee Maq say he did the 'kiss' with Bay Ann at the end of the Halloween Idol?",
+        "type": "multiple-choice",
+        "pageReference": 49,
+        "correctAnswer": "Got to make a sick girl's dream come true",
+        "choices": [
+          "Got to make a sick girl's dream come true",
+          "She forced him to do it",
+          "As a favor to her mom",
+          "To win votes",
+          "To create drama",
+          "To become popular",
+          "To make others jealous",
+          "For social media attention",
+          "To help her confidence",
+          "Because he liked her"
+        ]
+      },
+      {
+        "id": 12,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann lives with what type of disability?",
+        "type": "multiple-choice",
+        "pageReference": 51,
+        "correctAnswer": "Cerebral Palsy or CP",
+        "choices": [
+          "Cerebral Palsy or CP",
+          "Multiple Sclerosis",
+          "Muscular Dystrophy",
+          "Spina Bifida",
+          "Autism",
+          "Down Syndrome",
+          "Visual Impairment",
+          "Hearing Loss",
+          "Learning Disability",
+          "Physical Disability"
+        ]
+      },
+      {
+        "id": 13,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann's mom keeps telling her not to call her Yama.",
+        "type": "true-false",
+        "pageReference": "50, 53",
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 14,
+        "bookTitle": "Shiny Misfits",
+        "question": "Before Bay Ann can go to Michelle's house, her dad insists she talk to Michelle's Mom. Who does she actually talk to?",
+        "type": "multiple-choice",
+        "pageReference": 56,
+        "correctAnswer": "Michelle",
+        "choices": [
+          "Michelle",
+          "Michelle's Dad",
+          "Davey Matt",
+          "The babysitter",
+          "Her older sister",
+          "The housekeeper",
+          "Her grandmother",
+          "The neighbor",
+          "Her aunt",
+          "No one"
+        ]
+      },
+      {
+        "id": 15,
+        "bookTitle": "Shiny Misfits",
+        "question": "Where is Alyee Maq going to be absent for the remainder of the week?",
+        "type": "multiple-choice",
+        "pageReference": 70,
+        "correctAnswer": "On Dancing with the Z List",
+        "choices": [
+          "On Dancing with the Z List",
+          "Family vacation",
+          "Doctor appointments",
+          "Dance competition",
+          "Talent show tour",
+          "Music festival",
+          "School competition",
+          "Youth convention",
+          "Sports tournament",
+          "Theater camp"
+        ]
+      },
+      {
+        "id": 16,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann wants to quit dance because she is convinced people only clap for her because she's sick.",
+        "type": "true-false",
+        "pageReference": 74,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 17,
+        "bookTitle": "Shiny Misfits",
+        "question": "Where does Bay Ann's dad work?",
+        "type": "multiple-choice",
+        "pageReference": "2, 83",
+        "correctAnswer": "In a Food Truck",
+        "choices": [
+          "In a Food Truck",
+          "Restaurant kitchen",
+          "Grocery store",
+          "Catering company",
+          "School cafeteria",
+          "Vegan cafe",
+          "Bakery",
+          "Hotel restaurant",
+          "Fast food chain",
+          "Food delivery service"
+        ]
+      },
+      {
+        "id": 18,
+        "bookTitle": "Shiny Misfits",
+        "question": "What one thing did Bay Ann's mom say she had to do before her mom would sign her up for the Kid's Bake Off?",
+        "type": "multiple-choice",
+        "pageReference": 89,
+        "correctAnswer": "Bake her a cake",
+        "choices": [
+          "Bake her a cake",
+          "Get straight A's",
+          "Enter the science fair",
+          "Clean her room",
+          "Finish her homework",
+          "Practice piano",
+          "Help with chores",
+          "Read five books",
+          "Join a club",
+          "Write a story"
+        ]
+      },
+      {
+        "id": 19,
+        "bookTitle": "Shiny Misfits",
+        "question": "When practicing her baked Alaska donut cake what accident happened to Bay Ann?",
+        "type": "multiple-choice",
+        "pageReference": 92,
+        "correctAnswer": "Her hair got caught in the mixer",
+        "choices": [
+          "Her hair got caught in the mixer",
+          "She cut her finger with a knife",
+          "The cake caught on fire in the oven",
+          "She dropped the batter",
+          "She burned her hand",
+          "The mixer broke",
+          "She slipped on flour",
+          "The eggs fell",
+          "The bowl shattered",
+          "She spilled milk"
+        ]
+      },
+      {
+        "id": 20,
+        "bookTitle": "Shiny Misfits",
+        "question": "Every time Dennis brings lunch to the girls, he says 'chow down'.",
+        "type": "true-false",
+        "pageReference": 96,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 21,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann thinks that Davey Matt is using her to go viral by helping her get lunch and using the catch phrase 'soups on'.",
+        "type": "true-false",
+        "pageReference": 98,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 22,
+        "bookTitle": "Shiny Misfits",
+        "question": "What did Bay Ann squirt in Davey Matt's eyes?",
+        "type": "multiple-choice",
+        "pageReference": 100,
+        "correctAnswer": "ketchup",
+        "choices": [
+          "ketchup",
+          "mustard",
+          "mayo",
+          "hot sauce",
+          "soy sauce",
+          "vinegar",
+          "lemon juice",
+          "water",
+          "soda",
+          "salad dressing"
+        ]
+      },
+      {
+        "id": 23,
+        "bookTitle": "Shiny Misfits",
+        "question": "How did the counselor feel after watching the Alyee Maq video?",
+        "type": "multiple-choice",
+        "pageReference": 104,
+        "correctAnswer": "She cried because it was so inspiring",
+        "choices": [
+          "She cried because it was so inspiring",
+          "She laughed out loud",
+          "She was confused",
+          "She felt angry",
+          "She was disappointed",
+          "She felt proud",
+          "She was shocked",
+          "She remained neutral",
+          "She was concerned",
+          "She felt motivated"
+        ]
+      },
+      {
+        "id": 24,
+        "bookTitle": "Shiny Misfits",
+        "question": "When the producers from Dancing with the Z-List call Bay Ann, what do they want?",
+        "type": "multiple-choice",
+        "pageReference": 110,
+        "correctAnswer": "To have Bay Ann sit in the audience and cheer on Alyee Maq",
+        "choices": [
+          "To have Bay Ann sit in the audience and cheer on Alyee Maq",
+          "Bay Ann to perform",
+          "To ask Bay Ann about Alyee Maq",
+          "To interview Bay Ann",
+          "To feature her story",
+          "To judge a competition",
+          "To dance with Alyee",
+          "To host a segment",
+          "To teach a dance",
+          "To choreograph"
+        ]
+      },
+      {
+        "id": 25,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann, Michelle, & Davey Matt enter a cheese dip made from ear wax in the science competition.",
+        "type": "true-false",
+        "pageReference": 129,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 26,
+        "bookTitle": "Shiny Misfits",
+        "question": "What place did 'say cheese' win in the science fair?",
+        "type": "multiple-choice",
+        "pageReference": 130,
+        "correctAnswer": "2nd place or 1st runner up",
+        "choices": [
+          "2nd place or 1st runner up",
+          "1st place",
+          "3rd place",
+          "Honorable mention",
+          "Grand prize",
+          "Best in show",
+          "People's choice",
+          "Judge's favorite",
+          "Special recognition",
+          "Merit award"
+        ]
+      },
+      {
+        "id": 27,
+        "bookTitle": "Shiny Misfits",
+        "question": "What was the topic of the Classroom Clash Debate?",
+        "type": "multiple-choice",
+        "pageReference": 145,
+        "correctAnswer": "Dogs are better than cats or Cats are better than dogs",
+        "choices": [
+          "Dogs are better than cats or Cats are better than dogs",
+          "Summer vs Winter",
+          "Books vs Movies",
+          "City vs Country living",
+          "Pizza vs Hamburgers",
+          "Sports vs Arts",
+          "Early Birds vs Night Owls",
+          "Homemade vs Restaurant food",
+          "Digital vs Print books",
+          "School uniforms vs Regular clothes"
+        ]
+      },
+      {
+        "id": 28,
+        "bookTitle": "Shiny Misfits",
+        "question": "The Rules of Debate are called:",
+        "type": "multiple-choice",
+        "pageReference": 150,
+        "correctAnswer": "Roberts Rules of Order",
+        "choices": [
+          "Roberts Rules of Order",
+          "Parliamentary Procedure",
+          "Roberts Regulations for Debate",
+          "Debate Code of Conduct",
+          "Standard Debate Protocol",
+          "Official Debate Guidelines",
+          "Universal Debate Rules",
+          "Formal Debate Procedures",
+          "Classic Debate Standards",
+          "International Debate Rules"
+        ]
+      },
+      {
+        "id": 29,
+        "bookTitle": "Shiny Misfits",
+        "question": "When Thanksgiving plans change, Bay Ann's mom challenges her to a debate.",
+        "type": "true-false",
+        "pageReference": "156-157",
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 30,
+        "bookTitle": "Shiny Misfits",
+        "question": "What does Alyce Maq say to win the Classroom Clash?",
+        "type": "multiple-choice",
+        "pageReference": 167,
+        "correctAnswer": "Cats rule, dogs drool",
+        "choices": [
+          "Cats rule, dogs drool",
+          "Dogs bark, cats purr",
+          "Cats forever, dogs never",
+          "Dogs are loyal, cats are royal",
+          "Cats win, dogs spin",
+          "Dogs chase, cats grace",
+          "Cats sleep, dogs leap",
+          "Dogs play, cats slay",
+          "Cats meow, dogs bow",
+          "Dogs run, cats fun"
+        ]
+      },
+      {
+        "id": 31,
+        "bookTitle": "Shiny Misfits",
+        "question": "Bay Ann is so obsessed with getting likes and going viral that she turns her back on her real friends when they want to partner with her for the Non-denominational Holiday Spectacular.",
+        "type": "true-false",
+        "pageReference": 182,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 32,
+        "bookTitle": "Shiny Misfits",
+        "question": "When Alyce & Bay Ann are practicing what dangerous thing does Bay Ann do?",
+        "type": "multiple-choice",
+        "pageReference": 197,
+        "correctAnswer": "Dance on top of the table",
+        "choices": [
+          "Dance on top of the table",
+          "Dances blindfold",
+          "Dances while juggling",
+          "Spins too fast",
+          "Jumps from chairs",
+          "Attempts backflips",
+          "Dances on stairs",
+          "Performs without spotters",
+          "Uses unsafe props",
+          "Practices without supervision"
+        ]
+      },
+      {
+        "id": 33,
+        "bookTitle": "Shiny Misfits",
+        "question": "Why does Bay Ann fake being sick?",
+        "type": "multiple-choice",
+        "pageReference": 205,
+        "correctAnswer": "Because she's embarrassed",
+        "choices": [
+          "Because she's embarrassed",
+          "Because everyone hates her",
+          "Because she forgot her assignment for class",
+          "To avoid a test",
+          "To skip practice",
+          "To get attention",
+          "To stay home",
+          "To miss a performance",
+          "To avoid conflict",
+          "To escape responsibility"
+        ]
+      },
+      {
+        "id": 34,
+        "bookTitle": "Shiny Misfits",
+        "question": "What causes Bay Ann to defend Michelle & Davey Matt when they are still upset with her?",
+        "type": "multiple-choice",
+        "pageReference": 227,
+        "correctAnswer": "Alyee Maq calls them losers",
+        "choices": [
+          "Alyee Maq calls them losers",
+          "Bay Ann's mom puts her friends down",
+          "The audience laughs at them",
+          "They get bullied",
+          "Someone spreads rumors",
+          "They fail at something",
+          "They get excluded",
+          "Other students mock them",
+          "They lose a competition",
+          "Teachers criticize them"
+        ]
+      },
+      {
+        "id": 35,
+        "bookTitle": "Shiny Misfits",
+        "question": "It took Bay Ann so long to apologize to Michelle because she was embarrassed.",
+        "type": "true-false",
+        "pageReference": 239,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 36,
+        "bookTitle": "Shiny Misfits",
+        "question": "In the end, Bay Ann & her friends went viral with their mistake at the Non-denominational Pageant.",
+        "type": "true-false",
+        "pageReference": 246,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 37,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "The tiger in Halmoni's stories is:",
+        "type": "multiple-choice",
+        "pageReference": 9,
+        "correctAnswer": "a scary, tricky predator",
+        "choices": [
+          "a scary, tricky predator",
+          "a timid, young cub",
+          "a funny, clever friend",
+          "a mystical spirit guide",
+          "a shape-shifting guardian",
+          "a powerful forest deity",
+          "a wise ancient being",
+          "a mischievous trickster",
+          "a vengeful creature",
+          "a protective ancestor"
+        ]
+      },
+      {
+        "id": 38,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Lily, Sam, and Mom are leaving CA for good to live with Halmoni in OR.",
+        "type": "true-false",
+        "pageReference": 2,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 39,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Halmoni and Lily do a kosa, a Korean ritual that includes:",
+        "type": "multiple-choice",
+        "pageReference": 30,
+        "correctAnswer": "setting out food in honor of spirits and ancestors",
+        "choices": [
+          "setting out food in honor of spirits and ancestors",
+          "cleaning the house to clear evil spirits",
+          "singing a song of prayer for ancestors",
+          "lighting ceremonial candles",
+          "burning sacred herbs",
+          "performing traditional dances",
+          "writing wishes on paper lanterns",
+          "creating protective talismans",
+          "offering tea to household spirits",
+          "reciting ancient prayers"
+        ]
+      },
+      {
+        "id": 40,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "How did Lily and Sam's father die?",
+        "type": "multiple-choice",
+        "pageReference": 15,
+        "correctAnswer": "in a car accident",
+        "choices": [
+          "in a car accident",
+          "from a long illness",
+          "in a workplace incident",
+          "during military service",
+          "from natural causes",
+          "in a hiking accident",
+          "from heart failure",
+          "in a storm",
+          "during a rescue attempt",
+          "unexpectedly at home"
+        ]
+      },
+      {
+        "id": 41,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Sam calls Lily a QAG, which stands for:",
+        "type": "multiple-choice",
+        "pageReference": 20,
+        "correctAnswer": "Quiet Asian girl",
+        "choices": [
+          "Quiet Asian girl",
+          "Queer Asian girl",
+          "Quick Asian girl",
+          "Questioning Asian girl",
+          "Quirky Asian girl",
+          "Quaint Asian girl",
+          "Quality Asian girl",
+          "Quintessential Asian girl",
+          "Queenly Asian girl",
+          "Qualified Asian girl"
+        ]
+      },
+      {
+        "id": 42,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Sam's hair is dyed purple.",
+        "type": "true-false",
+        "pageReference": 21,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 43,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "When Lily first sees the tiger from the car, it:",
+        "type": "multiple-choice",
+        "pageReference": 6,
+        "correctAnswer": "Raises an eyebrow and looks at her",
+        "choices": [
+          "Raises an eyebrow and looks at her",
+          "Jumps out of the way of traffic",
+          "Opens its mouth to show a rice cake",
+          "Disappears into the shadows",
+          "Waves its tail mysteriously",
+          "Bows its head in greeting",
+          "Shows its teeth menacingly",
+          "Transforms into mist",
+          "Circles the car slowly",
+          "Sits perfectly still"
+        ]
+      },
+      {
+        "id": 44,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What is the name for little sister in Halmoni's tiger stories?",
+        "type": "multiple-choice",
+        "pageReference": 9,
+        "correctAnswer": "Eggi (Little Egg)",
+        "choices": [
+          "Eggi (Little Egg)",
+          "Dongsaeng",
+          "Maknae",
+          "Agi (Baby)",
+          "Nuna",
+          "Jagi (Darling)",
+          "Sarang (Love)",
+          "Cheonsa (Angel)",
+          "Ddong (Little One)",
+          "Kkoch (Flower)"
+        ]
+      },
+      {
+        "id": 45,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What did the tiger do with Halmoni's head scarf?",
+        "type": "multiple-choice",
+        "pageReference": 37,
+        "correctAnswer": "Wore it as a disguise",
+        "choices": [
+          "Wore it as a disguise",
+          "Tore it to pieces",
+          "Buried it in the garden",
+          "Gave it to the moon",
+          "Made it disappear",
+          "Turned it into stars",
+          "Used it as a map",
+          "Transformed it into gold",
+          "Wrapped it around its paw",
+          "Returned it untouched"
+        ]
+      },
+      {
+        "id": 46,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "The basement was Lily's favorite place in Halmoni's house.",
+        "type": "true-false",
+        "pageReference": 42,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 47,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Why won't Sam drive even though she has a permit?",
+        "type": "multiple-choice",
+        "pageReference": 78,
+        "correctAnswer": "she is scared because of her Dad's car accident",
+        "choices": [
+          "she is scared because of her Dad's car accident",
+          "she failed her driving test",
+          "she doesn't like driving",
+          "the car is broken",
+          "she lost her permit",
+          "she has anxiety about traffic",
+          "she prefers public transport",
+          "she's waiting for her birthday",
+          "she needs more practice",
+          "she promised her mom she wouldn't"
+        ]
+      },
+      {
+        "id": 48,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Halmoni said her home was filled with boxes because:",
+        "type": "multiple-choice",
+        "pageReference": 27,
+        "correctAnswer": "She was preparing to die",
+        "choices": [
+          "She was preparing to die",
+          "The basement flooded",
+          "She was preparing to move",
+          "She was organizing her belongings",
+          "She was donating items",
+          "She was renovating",
+          "She was selling her things",
+          "She was spring cleaning",
+          "She was hiding treasures",
+          "She was protecting memories"
+        ]
+      },
+      {
+        "id": 49,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Mom worked as what in California?",
+        "type": "multiple-choice",
+        "pageReference": 55,
+        "correctAnswer": "an accountant",
+        "choices": [
+          "an accountant",
+          "a teacher",
+          "a nurse",
+          "a librarian",
+          "a store manager",
+          "a real estate agent",
+          "a bank teller",
+          "a social worker",
+          "a secretary",
+          "a sales representative"
+        ]
+      },
+      {
+        "id": 50,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Lily loved the library when she was little because it looked like the gingerbread house from Hansel and Gretel.",
+        "type": "true-false",
+        "pageReference": 57,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 51,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Why did Lily go to the library?",
+        "type": "multiple-choice",
+        "pageReference": 59,
+        "correctAnswer": "She wanted to learn how to protect the family from tigers",
+        "choices": [
+          "She wanted to learn how to protect the family from tigers",
+          "To find Korean folktales",
+          "To meet her friends",
+          "To escape the house",
+          "To do homework",
+          "To read adventure stories",
+          "To use the internet",
+          "To attend a workshop",
+          "To find magical solutions",
+          "To learn about her heritage"
+        ]
+      },
+      {
+        "id": 52,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Lily describes Jensen as:",
+        "type": "multiple-choice",
+        "pageReference": 65,
+        "correctAnswer": "An unrelenting optimist",
+        "choices": [
+          "An unrelenting optimist",
+          "A pushy busybody",
+          "An annoying chatterbox",
+          "A loyal friend",
+          "A curious explorer",
+          "A determined helper",
+          "A cheerful companion",
+          "A persistent questioner",
+          "A thoughtful listener",
+          "A natural leader"
+        ]
+      },
+      {
+        "id": 53,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Lily discovers a book of Korean folktales in the library.",
+        "type": "true-false",
+        "pageReference": 68,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 54,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What two things does Halmoni give Lily to keep her safe from tigers?",
+        "type": "multiple-choice",
+        "pageReference": 76,
+        "correctAnswer": "mugwort and a pearl pendant",
+        "choices": [
+          "mugwort and a pearl pendant",
+          "bergamot and an opal pendant",
+          "lemons and a tiger eye pendant",
+          "sage and a jade pendant",
+          "lavender and a crystal pendant",
+          "rosemary and a gold pendant",
+          "ginger and a silver pendant",
+          "mint and a ruby pendant",
+          "basil and an amber pendant",
+          "thyme and a diamond pendant"
+        ]
+      },
+      {
+        "id": 55,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "For extra protection, Halmoni adds pine nuts and rice to the grocery list.",
+        "type": "true-false",
+        "pageReference": 79,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 56,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Where did Lily run into Ricky after they met in the library?",
+        "type": "multiple-choice",
+        "pageReference": 84,
+        "correctAnswer": "The grocery store",
+        "choices": [
+          "The grocery store",
+          "The park",
+          "The school",
+          "The bus stop",
+          "The bookstore",
+          "The cafe",
+          "The community center",
+          "The post office",
+          "The museum",
+          "The theater"
+        ]
+      },
+      {
+        "id": 57,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What life lesson did Halmoni say her mom taught her?",
+        "type": "multiple-choice",
+        "pageReference": 90,
+        "correctAnswer": "Everyone has good and bad in them, focusing on the bad makes it worse, you need to remind them of their good",
+        "choices": [
+          "Everyone has good and bad in them, focusing on the bad makes it worse, you need to remind them of their good",
+          "Never judge a book by its cover",
+          "Kindness is always the best policy",
+          "Trust must be earned over time",
+          "People can surprise you in good ways",
+          "First impressions aren't always right",
+          "Give people second chances",
+          "Look for the best in others",
+          "Actions speak louder than words",
+          "Treat others as you want to be treated"
+        ]
+      },
+      {
+        "id": 58,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What does Halmoni call her illness?",
+        "type": "multiple-choice",
+        "pageReference": 47,
+        "correctAnswer": "A beetle",
+        "choices": [
+          "A beetle",
+          "A ladybug",
+          "A spider",
+          "A butterfly",
+          "A grasshopper",
+          "An ant",
+          "A cricket",
+          "A dragonfly",
+          "A moth",
+          "A caterpillar"
+        ]
+      },
+      {
+        "id": 59,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What did Halmoni steal from the tigers?",
+        "type": "multiple-choice",
+        "pageReference": 50,
+        "correctAnswer": "stars, 'bad stories'",
+        "choices": [
+          "stars, 'bad stories'",
+          "magic spells",
+          "golden coins",
+          "sacred scrolls",
+          "ancient wisdom",
+          "healing potions",
+          "precious gems",
+          "secret maps",
+          "powerful amulets",
+          "mystical books"
+        ]
+      },
+      {
+        "id": 60,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What bargain does the tiger try to make with Lily?",
+        "type": "multiple-choice",
+        "pageReference": 98,
+        "correctAnswer": "Return the stories/stars, and Halmoni will be well again",
+        "choices": [
+          "Return the stories/stars, and Halmoni will be well again",
+          "Trade her life for Halmoni's",
+          "Give up her memories for healing",
+          "Share her future for Halmoni's cure",
+          "Exchange her voice for medicine",
+          "Sacrifice her dreams for health",
+          "Trade family stories for recovery",
+          "Give up her courage for healing",
+          "Exchange her talents for wellness",
+          "Trade her happiness for health"
+        ]
+      },
+      {
+        "id": 61,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What does Lily say is scarier than any tiger?",
+        "type": "multiple-choice",
+        "pageReference": 102,
+        "correctAnswer": "Mom crying over Halmoni's sickness",
+        "choices": [
+          "Mom crying over Halmoni's sickness",
+          "The way Ricky's dad talks to him",
+          "The way Halmoni drives",
+          "The dark basement",
+          "Being alone at night",
+          "Strange noises in the house",
+          "Thunder and lightning",
+          "Getting lost in the woods",
+          "Meeting new people",
+          "Speaking in public"
+        ]
+      },
+      {
+        "id": 62,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What is Halmoni sick with?",
+        "type": "multiple-choice",
+        "pageReference": 103,
+        "correctAnswer": "brain cancer",
+        "choices": [
+          "brain cancer",
+          "dementia",
+          "stroke",
+          "heart disease",
+          "liver failure",
+          "lung cancer",
+          "kidney disease",
+          "diabetes",
+          "pneumonia",
+          "alzheimer's"
+        ]
+      },
+      {
+        "id": 63,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Why does Lily think Ricky can help her?",
+        "type": "multiple-choice",
+        "pageReference": 111,
+        "correctAnswer": "He comes from a family of tiger hunters",
+        "choices": [
+          "He comes from a family of tiger hunters",
+          "He knows Korean folklore",
+          "He's good with traps",
+          "He's brave and strong",
+          "He has special knowledge",
+          "He's experienced with animals",
+          "He knows the forest well",
+          "He has magical abilities",
+          "He understands spirits",
+          "He's dealt with tigers before"
+        ]
+      },
+      {
+        "id": 64,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Jensen & Sam get along immediately.",
+        "type": "true-false",
+        "pageReference": 117,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 65,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Why does Ricky go over to Lily's house?",
+        "type": "multiple-choice",
+        "pageReference": 114,
+        "correctAnswer": "To help build a tiger trap",
+        "choices": [
+          "To help build a tiger trap",
+          "To start a comic club",
+          "To bring medicine to Halmoni",
+          "To study together",
+          "To share tiger stories",
+          "To plan a surprise party",
+          "To work on a school project",
+          "To learn Korean customs",
+          "To meet her family",
+          "To share hunting techniques"
+        ]
+      },
+      {
+        "id": 66,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Ricky is wearing a camo baseball hat when he shows up at Lily's house.",
+        "type": "true-false",
+        "pageReference": 122,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 67,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "According to Ricky, what does the Internet say is the most important part of the tiger trap?",
+        "type": "multiple-choice",
+        "pageReference": 136,
+        "correctAnswer": "The bait",
+        "choices": [
+          "The bait",
+          "The gasket",
+          "The size of the enclosure",
+          "The location",
+          "The timing",
+          "The materials",
+          "The structure",
+          "The camouflage",
+          "The trigger mechanism",
+          "The foundation"
+        ]
+      },
+      {
+        "id": 68,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "In Halmoni's tiger story, what jobs did the sky god give to the sisters?",
+        "type": "multiple-choice",
+        "pageReference": 39,
+        "correctAnswer": "The sun and the moon",
+        "choices": [
+          "The sun and the moon",
+          "Rain and wind",
+          "Day and night",
+          "Stars and clouds",
+          "Summer and winter",
+          "Dawn and dusk",
+          "Thunder and lightning",
+          "Rainbow and storm",
+          "Earth and sky",
+          "Light and darkness"
+        ]
+      },
+      {
+        "id": 69,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What part of Lily's tiger trap does Sam remove to sneak out?",
+        "type": "multiple-choice",
+        "pageReference": 182,
+        "correctAnswer": "The rope",
+        "choices": [
+          "The rope",
+          "The flashlight",
+          "The cardboard",
+          "The bait",
+          "The lock",
+          "The door",
+          "The latch",
+          "The handle",
+          "The chain",
+          "The hook"
+        ]
+      },
+      {
+        "id": 70,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Halmoni's jars contain:",
+        "type": "multiple-choice",
+        "pageReference": 132,
+        "correctAnswer": "Stories",
+        "choices": [
+          "Stories",
+          "Spells",
+          "Songs",
+          "Memories",
+          "Dreams",
+          "Wishes",
+          "Prayers",
+          "Magic",
+          "Spirits",
+          "Secrets"
+        ]
+      },
+      {
+        "id": 71,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What did Halmoni mix into Dad's milkshake to make him 'grounded and think before he speak?'",
+        "type": "multiple-choice",
+        "pageReference": 163,
+        "correctAnswer": "Mud",
+        "choices": [
+          "Mud",
+          "Herbs",
+          "Honey",
+          "Ginger",
+          "Salt",
+          "Sugar",
+          "Rice",
+          "Tea leaves",
+          "Cinnamon",
+          "Roots"
+        ]
+      },
+      {
+        "id": 72,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Lily was surprised when she found out that Ricky's family is poor.",
+        "type": "true-false",
+        "pageReference": null,
+        "correctAnswer": false,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 73,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "At the hospital, what does Halmoni tell Lily is Lily's power?",
+        "type": "multiple-choice",
+        "pageReference": 270,
+        "correctAnswer": "Seeing, noticing",
+        "choices": [
+          "Seeing, noticing",
+          "Storytelling",
+          "Bravery",
+          "Understanding",
+          "Healing",
+          "Protection",
+          "Wisdom",
+          "Love",
+          "Strength",
+          "Magic"
+        ]
+      },
+      {
+        "id": 74,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "In their final moments together, what does Halmoni ask Lily to do?",
+        "type": "multiple-choice",
+        "pageReference": 271,
+        "correctAnswer": "Tell her a story",
+        "choices": [
+          "Tell her a story",
+          "Hold her hand",
+          "Trap the tiger",
+          "Sing a song",
+          "Make a promise",
+          "Say a prayer",
+          "Share a memory",
+          "Give her blessing",
+          "Keep her secrets",
+          "Remember her lessons"
+        ]
+      },
+      {
+        "id": 75,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "Mom and the girls make rice cakes for the bake sale.",
+        "type": "true-false",
+        "pageReference": 281,
+        "correctAnswer": true,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 76,
+        "bookTitle": "When You Trap a Tiger",
+        "question": "What does Lily use for tiger bait?",
+        "type": "multiple-choice",
+        "pageReference": 137,
+        "correctAnswer": "jars or star jars",
+        "choices": [
+          "jars or star jars",
+          "rice cakes",
+          "mugwort",
+          "stories",
+          "prayers",
+          "family photos",
+          "Korean food",
+          "sacred items",
+          "personal belongings",
+          "childhood memories"
+        ]
+      }
+    ]
+  }
