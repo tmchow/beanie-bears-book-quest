@@ -2,6 +2,16 @@ import { NextResponse } from 'next/server';
 import path from 'path';
 import fs from 'fs';
 
+interface Question {
+  id: number;
+  bookTitle: string;
+  question: string;
+  type: 'multiple-choice' | 'true-false';
+  correctAnswer: string;
+  pageReference: number;
+  choices: string[];
+}
+
 export async function POST(request: Request) {
   try {
     const { usedQuestionIds, selectedBooks } = await request.json();
@@ -9,18 +19,18 @@ export async function POST(request: Request) {
     const fileContents = fs.readFileSync(questionsPath, 'utf8');
     const data = JSON.parse(fileContents);
     
-    let availableQuestions = data.questions;
+    let availableQuestions = data.questions as Question[];
 
     // Filter questions by selected books if provided
     if (selectedBooks && selectedBooks.length > 0) {
-      availableQuestions = availableQuestions.filter((q: any) => 
+      availableQuestions = availableQuestions.filter((q: Question) => 
         selectedBooks.includes(q.bookTitle)
       );
     }
 
     // Filter out recently used questions
     if (usedQuestionIds && usedQuestionIds.length > 0) {
-      availableQuestions = availableQuestions.filter((q: any) => 
+      availableQuestions = availableQuestions.filter((q: Question) => 
         !usedQuestionIds.includes(q.id)
       );
     }
