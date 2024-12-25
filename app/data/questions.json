@@ -1,6 +1,6 @@
 {
     "metadata": {
-      "totalQuestions": 133,
+      "totalQuestions": 178,
       "books": [
         {
           "title": "When You Trap a Tiger",
@@ -17,6 +17,10 @@
         {
           "title": "Ways to Make Sunshine",
           "questionCount": 42
+        },
+        {
+          "title": "Snapdragon",
+          "questionCount": 45
         }
       ]
     },
@@ -1648,7 +1652,6 @@
         "question": "The new house has stairs to slide down, bumping Ryan up & down like she's sledding.",
         "type": "true-false",
         "correctAnswer": false,
-        "pageReference": 26,
         "choices": ["True", "False"]
       },
       {
@@ -2060,6 +2063,784 @@
           "Success",
           "Bravo",
           "The End"
+        ]
+      },
+      {
+        "id": 134,
+        "bookTitle": "Snapdragon",
+        "question": "What is not a rumor about the witch?",
+        "type": "multiple-choice",
+        "correctAnswer": "She casts spells with bones",
+        "pageReference": 1,
+        "choices": [
+          "She fed her eye to the devil",
+          "She eats roadkill",
+          "She casts spells with her horsehair wand",
+          "She casts spells with bones"
+        ]
+      },
+      {
+        "id": 135,
+        "bookTitle": "Snapdragon",
+        "question": "What is written on Snap's t-shirt with the alligator wearing a red bandana?",
+        "type": "multiple-choice",
+        "correctAnswer": "Al's Seafood Bar & Grill",
+        "pageReference": 3,
+        "choices": [
+          "Al's Seafood Bar & Grill",
+          "Gator's Diner",
+          "Red Bandana Cafe",
+          "Seafood Shack",
+          "Alligator Grill",
+          "Snap's Snacks",
+          "Bayou Bistro",
+          "Croc's Corner",
+          "The Gator Spot",
+          "Reptile Restaurant"
+        ]
+      },
+      {
+        "id": 136,
+        "bookTitle": "Snapdragon",
+        "question": "Why is Good Boy at the Jacks' house?",
+        "type": "multiple-choice",
+        "correctAnswer": "She patched him up after finding him hurt on the side of the road",
+        "pageReference": 8,
+        "choices": [
+          "She patched him up after finding him hurt on the side of the road",
+          "He followed her home",
+          "She adopted him from a shelter",
+          "He was a gift from a friend",
+          "She found him in the woods",
+          "He was abandoned at her door",
+          "She rescued him from a storm",
+          "He belonged to a neighbor",
+          "She bought him from a pet store",
+          "He was born to her other dog"
+        ]
+      },
+      {
+        "id": 137,
+        "bookTitle": "Snapdragon",
+        "question": "Louis stays to help Snap up after being pushed into the dead possum.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 13,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 138,
+        "bookTitle": "Snapdragon",
+        "question": "How many possum babies are in the green crate?",
+        "type": "multiple-choice",
+        "correctAnswer": "7",
+        "pageReference": 16,
+        "choices": [
+          "7",
+          "5",
+          "9",
+          "3",
+          "6",
+          "4",
+          "8",
+          "2",
+          "10",
+          "1"
+        ]
+      },
+      {
+        "id": 139,
+        "bookTitle": "Snapdragon",
+        "question": "How long does Jacks think the babies need care?",
+        "type": "multiple-choice",
+        "correctAnswer": "A month or so",
+        "pageReference": 17,
+        "choices": [
+          "A month or so",
+          "a few weeks",
+          "Bish weeks",
+          "Two months",
+          "Six weeks",
+          "Three months",
+          "Two weeks",
+          "Until winter",
+          "Until spring",
+          "Forever"
+        ]
+      },
+      {
+        "id": 140,
+        "bookTitle": "Snapdragon",
+        "question": "What is the cat wearing on the Jacks' shirt that says 'Meowdy'?",
+        "type": "multiple-choice",
+        "correctAnswer": "A red cowboy hat",
+        "pageReference": 18,
+        "choices": [
+          "A red cowboy hat",
+          "A blue bandana",
+          "A sheriff badge",
+          "A western vest",
+          "Cowboy boots",
+          "A lasso",
+          "Spurs",
+          "A leather jacket",
+          "A neckerchief",
+          "A cowboy belt"
+        ]
+      },
+      {
+        "id": 141,
+        "bookTitle": "Snapdragon",
+        "question": "Who's favorite flower is a snapdragon?",
+        "type": "multiple-choice",
+        "correctAnswer": "Snap's mama",
+        "pageReference": 19,
+        "choices": [
+          "Snap's mama",
+          "Jacks",
+          "Louis",
+          "Lulu",
+          "Violet",
+          "Snap herself",
+          "Grandma",
+          "The witch",
+          "The bookstore lady",
+          "The neighbor"
+        ]
+      },
+      {
+        "id": 142,
+        "bookTitle": "Snapdragon",
+        "question": "Jacks tells Snap to help with work at 6 am.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 20,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 143,
+        "bookTitle": "Snapdragon",
+        "question": "What is NOT underlined in Mom's note to Snap?",
+        "type": "multiple-choice",
+        "correctAnswer": "Homework",
+        "pageReference": 22,
+        "choices": [
+          "Homework",
+          "Before",
+          "Dark",
+          "On time",
+          "After school",
+          "Tonight",
+          "Tomorrow",
+          "Morning",
+          "Evening",
+          "Later"
+        ]
+      },
+      {
+        "id": 144,
+        "bookTitle": "Snapdragon",
+        "question": "Snap tells Louis the witch ate GB's leg.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 25,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 145,
+        "bookTitle": "Snapdragon",
+        "question": "Louis and Snap agree the only way to escape a witch is to walk backward off the property with an eye closed and a rosemary sprig in your pocket.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 26,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 146,
+        "bookTitle": "Snapdragon",
+        "question": "Which Witch Hill movie do they agree is the worst?",
+        "type": "multiple-choice",
+        "correctAnswer": "The 3rd one",
+        "pageReference": 27,
+        "choices": [
+          "The 3rd one",
+          "The 1st one",
+          "The 2nd one",
+          "The 4th one",
+          "The 5th one",
+          "The remake",
+          "The prequel",
+          "The sequel",
+          "The original",
+          "The finale"
+        ]
+      },
+      {
+        "id": 147,
+        "bookTitle": "Snapdragon",
+        "question": "Which brother of Louis is bald?",
+        "type": "multiple-choice",
+        "correctAnswer": "George",
+        "pageReference": 28,
+        "choices": [
+          "George",
+          "James",
+          "John",
+          "Michael",
+          "Thomas",
+          "William",
+          "Robert",
+          "Charles",
+          "David",
+          "Richard"
+        ]
+      },
+      {
+        "id": 148,
+        "bookTitle": "Snapdragon",
+        "question": "What is not part of Snap's morning wake up?",
+        "type": "multiple-choice",
+        "correctAnswer": "Kiss mom's forehead",
+        "pageReference": 30,
+        "choices": [
+          "Kiss mom's forehead",
+          "turn off meowing cat alarm",
+          "feed GB",
+          "make poptart"
+        ]
+      },
+      {
+        "id": 149,
+        "bookTitle": "Snapdragon",
+        "question": "What is the name of the mobile home park Snap lives in?",
+        "type": "multiple-choice",
+        "correctAnswer": "November Creek Mobile Home Park",
+        "pageReference": 31,
+        "choices": [
+          "November Creek Mobile Home Park",
+          "Autumn Valley Estates",
+          "Creek Side Manor",
+          "Fall Brook Park",
+          "November Gardens",
+          "Riverside Mobile Homes",
+          "Valley View Park",
+          "Autumn Meadows",
+          "Creek Haven",
+          "November Hills"
+        ]
+      },
+      {
+        "id": 150,
+        "bookTitle": "Snapdragon",
+        "question": "What does Snap need for the collection?",
+        "type": "multiple-choice",
+        "correctAnswer": "Wheelbarrow",
+        "pageReference": 35,
+        "choices": [
+          "Wheelbarrow",
+          "Bucket",
+          "Cart",
+          "Wagon",
+          "Basket",
+          "Box",
+          "Bag",
+          "Container",
+          "Crate",
+          "Dolly"
+        ]
+      },
+      {
+        "id": 151,
+        "bookTitle": "Snapdragon",
+        "question": "What does Jacks say before collecting dead animals?",
+        "type": "multiple-choice",
+        "correctAnswer": "WAKE UP!",
+        "pageReference": 36,
+        "choices": [
+          "WAKE UP!",
+          "Let's go!",
+          "Time to work!",
+          "Ready?",
+          "Here we go!",
+          "Get up!",
+          "Rise and shine!",
+          "Move it!",
+          "Come on!",
+          "Start now!"
+        ]
+      },
+      {
+        "id": 152,
+        "bookTitle": "Snapdragon",
+        "question": "How does Jacks use the dead animals?",
+        "type": "multiple-choice",
+        "correctAnswer": "She buries them until there are just bones left, rebuilds the skeleton and sells them",
+        "pageReference": 40,
+        "choices": [
+          "She buries them until there are just bones left, rebuilds the skeleton and sells them",
+          "She preserves them for study",
+          "She uses them for magic spells",
+          "She donates them to science",
+          "She creates art with them",
+          "She studies their anatomy",
+          "She photographs them",
+          "She makes displays",
+          "She teaches with them",
+          "She catalogs them"
+        ]
+      },
+      {
+        "id": 153,
+        "bookTitle": "Snapdragon",
+        "question": "Name two groups who buy the skeletons from Jacks.",
+        "type": "multiple-choice",
+        "correctAnswer": "Collectors, educators, & museums",
+        "pageReference": 42,
+        "choices": [
+          "Collectors, educators, & museums",
+          "Scientists & researchers",
+          "Artists & designers",
+          "Schools & universities",
+          "Zoos & aquariums",
+          "Veterinarians & doctors",
+          "Libraries & archives",
+          "Galleries & exhibits",
+          "Students & teachers",
+          "Biologists & naturalists"
+        ]
+      },
+      {
+        "id": 154,
+        "bookTitle": "Snapdragon",
+        "question": "Where is Snap when she tells her mom she helps Jacks?",
+        "type": "multiple-choice",
+        "correctAnswer": "Rook's Books",
+        "pageReference": 44,
+        "choices": [
+          "Rook's Books",
+          "At home",
+          "At school",
+          "In the park",
+          "At the library",
+          "At the store",
+          "In the car",
+          "At Jacks' house",
+          "At the mall",
+          "In the yard"
+        ]
+      },
+      {
+        "id": 155,
+        "bookTitle": "Snapdragon",
+        "question": "The bookstore saleswoman suggests getting a different book than Comparative Anatomy of Vertebrates.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 45,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 156,
+        "bookTitle": "Snapdragon",
+        "question": "Which animal isn't named by Snap on the way home from the bookstore?",
+        "type": "multiple-choice",
+        "correctAnswer": "lemurs",
+        "pageReference": 46,
+        "choices": [
+          "lemurs",
+          "Bats",
+          "Whales",
+          "Mice",
+          "Birds",
+          "Cats",
+          "Dogs",
+          "Fish",
+          "Rabbits",
+          "Hamsters"
+        ]
+      },
+      {
+        "id": 157,
+        "bookTitle": "Snapdragon",
+        "question": "Why doesn't Snap get lonely?",
+        "type": "multiple-choice",
+        "correctAnswer": "She has GB",
+        "pageReference": 51,
+        "choices": [
+          "She has GB",
+          "She has many friends",
+          "She likes being alone",
+          "She's too busy",
+          "She has her books",
+          "She has her family",
+          "She has her hobbies",
+          "She has her pets",
+          "She has her work",
+          "She has her imagination"
+        ]
+      },
+      {
+        "id": 158,
+        "bookTitle": "Snapdragon",
+        "question": "Granny hit One-Eyed Tom with her car because of the broken defroster.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 53,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 159,
+        "bookTitle": "Snapdragon",
+        "question": "Jacks knows how to treat the baby possums because she is a licensed rehabilitator.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 58,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 160,
+        "bookTitle": "Snapdragon",
+        "question": "Why does Jacks clap when collecting dead animals?",
+        "type": "multiple-choice",
+        "correctAnswer": "To get their little spirits to move along",
+        "pageReference": 62,
+        "choices": [
+          "To get their little spirits to move along",
+          "To scare away predators",
+          "To make noise",
+          "To keep rhythm",
+          "To stay focused",
+          "To keep time",
+          "To stay alert",
+          "To ward off evil",
+          "To show respect",
+          "To signal others"
+        ]
+      },
+      {
+        "id": 161,
+        "bookTitle": "Snapdragon",
+        "question": "What does Lou get in exchange for the blue dragon handed hand me down shirt?",
+        "type": "multiple-choice",
+        "correctAnswer": "Purple skirt",
+        "pageReference": 83,
+        "choices": [
+          "Purple skirt",
+          "Green socks",
+          "Mac & cheese dinner",
+          "Red shirt",
+          "Blue pants",
+          "Yellow dress",
+          "Pink sweater",
+          "Orange scarf",
+          "Black jacket",
+          "White blouse"
+        ]
+      },
+      {
+        "id": 162,
+        "bookTitle": "Snapdragon",
+        "question": "How did Jessamine meet Jacks?",
+        "type": "multiple-choice",
+        "correctAnswer": "At an unofficial motorcycle race, when Jacks received a kerchief to wipe off a bloody cut",
+        "pageReference": 93,
+        "choices": [
+          "At an unofficial motorcycle race, when Jacks received a kerchief to wipe off a bloody cut",
+          "At school",
+          "At the library",
+          "At a party",
+          "Through friends",
+          "At work",
+          "In the neighborhood",
+          "At a store",
+          "At church",
+          "At a concert"
+        ]
+      },
+      {
+        "id": 163,
+        "bookTitle": "Snapdragon",
+        "question": "What is Lulu's mom's last name?",
+        "type": "multiple-choice",
+        "correctAnswer": "Hill",
+        "pageReference": 126,
+        "choices": [
+          "Hill",
+          "Smith",
+          "Jones",
+          "Brown",
+          "Johnson",
+          "Davis",
+          "Wilson",
+          "Miller",
+          "Moore",
+          "Taylor"
+        ]
+      },
+      {
+        "id": 164,
+        "bookTitle": "Snapdragon",
+        "question": "What ghost won't leave Jacks?",
+        "type": "multiple-choice",
+        "correctAnswer": "Buck",
+        "pageReference": 132,
+        "choices": [
+          "Buck",
+          "Mama possum",
+          "Squirrel",
+          "Cat",
+          "Dog",
+          "Bird",
+          "Rabbit",
+          "Fox",
+          "Deer",
+          "Raccoon"
+        ]
+      },
+      {
+        "id": 165,
+        "bookTitle": "Snapdragon",
+        "question": "How did the fox get a green eye?",
+        "type": "multiple-choice",
+        "correctAnswer": "Jacks gave it to him after blinding him in a motorcycle crash",
+        "pageReference": 135,
+        "choices": [
+          "Jacks gave it to him after blinding him in a motorcycle crash",
+          "Born with it",
+          "Magic spell",
+          "Accident",
+          "Disease",
+          "Injury",
+          "Surgery",
+          "Mutation",
+          "Experiment",
+          "Unknown cause"
+        ]
+      },
+      {
+        "id": 166,
+        "bookTitle": "Snapdragon",
+        "question": "One-eyed Tom is real.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 137,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 167,
+        "bookTitle": "Snapdragon",
+        "question": "One-eye Tom saved Good Boy from Chuck.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 143,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 168,
+        "bookTitle": "Snapdragon",
+        "question": "What book does Jacks consult when teaching magic to Snapdragon?",
+        "type": "multiple-choice",
+        "correctAnswer": "The Basics of Teaching",
+        "pageReference": 152,
+        "choices": [
+          "The Basics of Teaching",
+          "Magic for Beginners",
+          "Spells and Incantations",
+          "Witch's Handbook",
+          "Book of Shadows",
+          "Magical Theory",
+          "Ancient Grimoire",
+          "Mystical Arts",
+          "Sorcerer's Guide",
+          "Wizard's Manual"
+        ]
+      },
+      {
+        "id": 169,
+        "bookTitle": "Snapdragon",
+        "question": "What is the first bit of magic done with Snap's wand?",
+        "type": "multiple-choice",
+        "correctAnswer": "Growing Lu's hair",
+        "pageReference": 166,
+        "choices": [
+          "Growing Lu's hair",
+          "Regrowing GB's leg",
+          "Giving Lu an earring",
+          "Making flowers grow",
+          "Creating light",
+          "Healing wounds",
+          "Moving objects",
+          "Changing colors",
+          "Making rain",
+          "Flying"
+        ]
+      },
+      {
+        "id": 170,
+        "bookTitle": "Snapdragon",
+        "question": "What did Snap dress up as for Halloween?",
+        "type": "multiple-choice",
+        "correctAnswer": "Possum",
+        "pageReference": 169,
+        "choices": [
+          "Possum",
+          "Witch",
+          "Ghost",
+          "Cat",
+          "Vampire",
+          "Zombie",
+          "Skeleton",
+          "Monster",
+          "Werewolf",
+          "Dragon"
+        ]
+      },
+      {
+        "id": 171,
+        "bookTitle": "Snapdragon",
+        "question": "If magic is used on frivolous things what will happen?",
+        "type": "multiple-choice",
+        "correctAnswer": "It will turn the witch hollow",
+        "pageReference": 171,
+        "choices": [
+          "It will turn the witch hollow",
+          "It will fade away",
+          "It will backfire",
+          "It will disappear",
+          "It will weaken",
+          "It will corrupt",
+          "It will fail",
+          "It will reverse",
+          "It will break",
+          "It will curse"
+        ]
+      },
+      {
+        "id": 172,
+        "bookTitle": "Snapdragon",
+        "question": "Jacks flies Snap on a broom to Pratter Road on Halloween night.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 174,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 173,
+        "bookTitle": "Snapdragon",
+        "question": "What animal was NOT saved on 'Splatter' road?",
+        "type": "multiple-choice",
+        "correctAnswer": "dog",
+        "pageReference": 177,
+        "choices": [
+          "dog",
+          "turtle",
+          "deer",
+          "raccoon",
+          "cat",
+          "rabbit",
+          "squirrel",
+          "bird",
+          "fox",
+          "possum"
+        ]
+      },
+      {
+        "id": 174,
+        "bookTitle": "Snapdragon",
+        "question": "Who wants to go on a date with mama?",
+        "type": "multiple-choice",
+        "correctAnswer": "Hersch",
+        "pageReference": 185,
+        "choices": [
+          "Hersch",
+          "Chuck",
+          "Louis",
+          "George",
+          "Tom",
+          "Bill",
+          "James",
+          "Steve",
+          "Mike",
+          "John"
+        ]
+      },
+      {
+        "id": 175,
+        "bookTitle": "Snapdragon",
+        "question": "Although the motorcycle is out of gas, Jacks is able to use it. How?",
+        "type": "multiple-choice",
+        "correctAnswer": "Buck's energy",
+        "pageReference": 195,
+        "choices": [
+          "Buck's energy",
+          "Magic spell",
+          "Solar power",
+          "Electric battery",
+          "Wind power",
+          "Spirit energy",
+          "Ghost power",
+          "Witch's magic",
+          "Alternative fuel",
+          "Supernatural force"
+        ]
+      },
+      {
+        "id": 176,
+        "bookTitle": "Snapdragon",
+        "question": "Name one of Chuck's dogs.",
+        "type": "multiple-choice",
+        "correctAnswer": "Crash or Cujo",
+        "pageReference": 204,
+        "choices": [
+          "Crash or Cujo",
+          "Max or Rex",
+          "Duke or King",
+          "Bear or Wolf",
+          "Rocky or Spike",
+          "Zeus or Thor",
+          "Shadow or Storm",
+          "Diesel or Tank",
+          "Beast or Brutus",
+          "Hunter or Scout"
+        ]
+      },
+      {
+        "id": 177,
+        "bookTitle": "Snapdragon",
+        "question": "What color energy does Jacks have? Snap?",
+        "type": "multiple-choice",
+        "correctAnswer": "Jacks has blue and Snap red",
+        "pageReference": 210,
+        "choices": [
+          "Jacks has blue and Snap red",
+          "Jacks has red and Snap blue",
+          "Both have blue",
+          "Both have red",
+          "Jacks has green and Snap blue",
+          "Jacks has purple and Snap gold",
+          "Both have purple",
+          "Jacks has yellow and Snap green",
+          "Both have white",
+          "Jacks has orange and Snap pink"
+        ]
+      },
+      {
+        "id": 178,
+        "bookTitle": "Snapdragon",
+        "question": "Why is Violet's name meaningful to Jacks?",
+        "type": "multiple-choice",
+        "correctAnswer": "That was the flower Jacks gave to Jessamine",
+        "pageReference": 215,
+        "choices": [
+          "That was the flower Jacks gave to Jessamine",
+          "It was her mother's name",
+          "It's her favorite color",
+          "It reminds her of spring",
+          "It was her first spell",
+          "It's a magical flower",
+          "It represents love",
+          "It was her sister's name",
+          "It's a healing plant",
+          "It's a witch's flower"
         ]
       }
     ]
