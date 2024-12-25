@@ -1,6 +1,6 @@
 {
     "metadata": {
-      "totalQuestions": 91,
+      "totalQuestions": 133,
       "books": [
         {
           "title": "When You Trap a Tiger",
@@ -13,6 +13,10 @@
         {
           "title": "King of the Ice",
           "questionCount": 15
+        },
+        {
+          "title": "Ways to Make Sunshine",
+          "questionCount": 42
         }
       ]
     },
@@ -1549,6 +1553,513 @@
           "Rink ruler",
           "Skating superstar",
           "Ice wizard"
+        ]
+      },
+      {
+        "id": 92,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ryan's last name is spelled H-E-A-R-T.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 4,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 93,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "After losing the race to Brandon, what candy does Ryan buy for herself?",
+        "type": "multiple-choice",
+        "correctAnswer": "Twix",
+        "pageReference": 9,
+        "choices": [
+          "Twix",
+          "Apple Jolly Ranchers",
+          "Snickers",
+          "M&Ms",
+          "KitKat",
+          "Skittles",
+          "Milky Way",
+          "3 Musketeers",
+          "Reese's Cups",
+          "Hershey's Bar"
+        ]
+      },
+      {
+        "id": 94,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What is Ryan's favorite flavor of ice cream?",
+        "type": "multiple-choice",
+        "correctAnswer": "Marionberry Pie",
+        "pageReference": 13,
+        "choices": [
+          "Marionberry Pie",
+          "Vanilla",
+          "Strawberry",
+          "Chocolate",
+          "Cookie Dough",
+          "Mint Chocolate Chip",
+          "Rocky Road",
+          "Butter Pecan",
+          "Coffee",
+          "Cherry Garcia"
+        ]
+      },
+      {
+        "id": 95,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ryan's family needs to move because the landlord is selling their house.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 13,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 96,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What game do Ray and Ryan play to decide what song is played during the Sunday car drive?",
+        "type": "multiple-choice",
+        "correctAnswer": "Rock, Paper, Scissors",
+        "pageReference": 21,
+        "choices": [
+          "Rock, Paper, Scissors",
+          "Coin Flip",
+          "Tic Tac Toe",
+          "Number Guessing",
+          "Drawing Straws",
+          "Thumb Wrestling",
+          "Word Association",
+          "Hangman",
+          "Twenty Questions",
+          "Simon Says"
+        ]
+      },
+      {
+        "id": 97,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ryan's Dad's favorite scent for candles, incense and air fresheners is vanilla.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 23,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 98,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "The new house has stairs to slide down, bumping Ryan up & down like she's sledding.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 26,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 99,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "For which holiday dinner will Grandmas and Mr. Simmons come over to the new house?",
+        "type": "multiple-choice",
+        "correctAnswer": "Easter",
+        "pageReference": 29,
+        "choices": [
+          "Easter",
+          "4th of July",
+          "Halloween",
+          "Thanksgiving",
+          "Christmas",
+          "New Year's",
+          "Memorial Day",
+          "Labor Day",
+          "Valentine's Day",
+          "Mother's Day"
+        ]
+      },
+      {
+        "id": 100,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Which item was NOT found inside the cookie tin in Ryan's closet?",
+        "type": "multiple-choice",
+        "correctAnswer": "1945 penny",
+        "choices": [
+          "1945 penny",
+          "seashells",
+          "postcard",
+          "old photos",
+          "buttons",
+          "stamps",
+          "ticket stubs",
+          "baseball cards",
+          "marbles",
+          "ribbons"
+        ]
+      },
+      {
+        "id": 101,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What special gift did Ryan hang above her dresser while setting up her new room?",
+        "type": "multiple-choice",
+        "correctAnswer": "nameplate",
+        "pageReference": 35,
+        "choices": [
+          "nameplate",
+          "picture of her and Ray",
+          "poster of Taylor Swift",
+          "family photo",
+          "dream catcher",
+          "butterfly mobile",
+          "string lights",
+          "wall clock",
+          "mirror",
+          "calendar"
+        ]
+      },
+      {
+        "id": 102,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Amanda visits Ryan and looks at the items in the tin canister found in the closet. Amanda tells Ryan to throw the canister out.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 47,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 103,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What kind of practice does Ray have to do afterschool?",
+        "type": "multiple-choice",
+        "correctAnswer": "baseball",
+        "pageReference": 47,
+        "choices": [
+          "baseball",
+          "piano",
+          "karate",
+          "soccer",
+          "basketball",
+          "violin",
+          "swimming",
+          "tennis",
+          "dance",
+          "gymnastics"
+        ]
+      },
+      {
+        "id": 104,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ryan's rosemary chicken wings are burned because she wasn't used to the new (old) stove and the oil was too hot.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 51,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 105,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What kind of pizza toppings did Dad order for dinner after burning the rosemary chicken?",
+        "type": "multiple-choice",
+        "correctAnswer": "½ pepperoni & ½ cheese",
+        "pageReference": 51,
+        "choices": [
+          "½ pepperoni & ½ cheese",
+          "all cheese",
+          "all pepperoni",
+          "mushroom and olive",
+          "supreme",
+          "hawaiian",
+          "veggie lovers",
+          "meat lovers",
+          "BBQ chicken",
+          "margherita"
+        ]
+      },
+      {
+        "id": 106,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Grandmas uses a curling iron to straighten Ryan's hair.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 56,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 107,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What does Ryan have to do in front of the church congregation on Easter Sunday?",
+        "type": "multiple-choice",
+        "correctAnswer": "Give a speech",
+        "pageReference": 53,
+        "choices": [
+          "Give a speech",
+          "Sing a song",
+          "Read a prayer",
+          "Play piano",
+          "Lead worship",
+          "Read scripture",
+          "Light candles",
+          "Present offerings",
+          "Perform a dance",
+          "Share testimony"
+        ]
+      },
+      {
+        "id": 108,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "During the church Easter service, what is the name of the song Luke is asked to play on the piano?",
+        "type": "multiple-choice",
+        "correctAnswer": "Amazing Grace",
+        "pageReference": 62,
+        "choices": [
+          "Amazing Grace",
+          "How Great Thou Art",
+          "Holy, Holy, Holy",
+          "Jesus Loves Me",
+          "What a Friend We Have in Jesus",
+          "This Little Light of Mine",
+          "Great Is Thy Faithfulness",
+          "Rock of Ages",
+          "Just As I Am",
+          "It Is Well with My Soul"
+        ]
+      },
+      {
+        "id": 109,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What does Ryan do for the family on the car ride home after church on Easter?",
+        "type": "multiple-choice",
+        "correctAnswer": "Recite her speech",
+        "pageReference": 69,
+        "choices": [
+          "Recite her speech",
+          "Sing a song",
+          "Tell jokes",
+          "Read a book",
+          "Play a game",
+          "Share stories",
+          "Say prayers",
+          "Plan dinner",
+          "Take pictures",
+          "Do homework"
+        ]
+      },
+      {
+        "id": 110,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Mom made carrot cake for Easter dinner dessert.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 7,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 121,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "How many liquid fire chicken wings did Ryan make for Ray's dinner?",
+        "type": "multiple-choice",
+        "correctAnswer": "Four",
+        "pageReference": 124,
+        "choices": [
+          "Four",
+          "Six",
+          "Eight",
+          "Two",
+          "Ten",
+          "Three",
+          "Five",
+          "Seven",
+          "Nine",
+          "Twelve"
+        ]
+      },
+      {
+        "id": 122,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ryan cried herself to sleep after being sent to her room for making the extra hot chicken wings for Ray.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 128,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 123,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Why can't Ryan do cooking for the Talent Show according to Mr. Barnes?",
+        "type": "multiple-choice",
+        "correctAnswer": "no deep fryers allowed",
+        "pageReference": 130,
+        "choices": [
+          "no deep fryers allowed",
+          "no place to plug in the deep fryer",
+          "elephant ears are not a healthy food",
+          "kitchen is off limits",
+          "cooking is too dangerous",
+          "not enough time",
+          "food allergies",
+          "no food allowed",
+          "needs parent supervision",
+          "equipment not available"
+        ]
+      },
+      {
+        "id": 124,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Instead of making elephant ears, Mr. Barnes suggests Ryan makes what for the Talent Show?",
+        "type": "multiple-choice",
+        "correctAnswer": "Salad",
+        "pageReference": 130,
+        "choices": [
+          "Salad",
+          "Sandwiches",
+          "Cookies",
+          "Fruit Platter",
+          "Smoothies",
+          "Trail Mix",
+          "Veggie Sticks",
+          "Pasta Dish",
+          "Rice Balls",
+          "No-bake Dessert"
+        ]
+      },
+      {
+        "id": 125,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "When Mom gives $2 to a man on the street for food, what does he say about the place that serves free food?",
+        "type": "multiple-choice",
+        "correctAnswer": "warm soup & hard bread",
+        "pageReference": 136,
+        "choices": [
+          "warm soup & hard bread",
+          "says he will go check it out",
+          "not to worry about him",
+          "sandwiches and coffee",
+          "hot meals at noon",
+          "breakfast and dinner",
+          "pizza and salad",
+          "rice and beans",
+          "pasta and bread",
+          "chicken and vegetables"
+        ]
+      },
+      {
+        "id": 126,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "At the Saturday Market, Ryan asks Laura if her family ever lived in her house on Alberta Street.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 138,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 127,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "It's raining, and the family will not go watch which parade?",
+        "type": "multiple-choice",
+        "correctAnswer": "Grand Floral Parade",
+        "pageReference": 142,
+        "choices": [
+          "Grand Floral Parade",
+          "Torchlight Parade",
+          "Rose Bowl Parade",
+          "Holiday Parade",
+          "Summer Festival Parade",
+          "Pride Parade",
+          "Veterans Day Parade",
+          "Halloween Parade",
+          "Thanksgiving Parade",
+          "New Year's Parade"
+        ]
+      },
+      {
+        "id": 128,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Mom was a Jefferson High School Princess in the Grand Floral Parade.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 150,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 129,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "The day before the Talent Show, while Kiki & Hannah practice on stage, what is Ryan doing?",
+        "type": "multiple-choice",
+        "correctAnswer": "Folding programs",
+        "pageReference": 152,
+        "choices": [
+          "Folding programs",
+          "Setting up chairs",
+          "Decorating stage",
+          "Practicing speech",
+          "Helping backstage",
+          "Making posters",
+          "Arranging flowers",
+          "Testing microphones",
+          "Selling tickets",
+          "Taking photos"
+        ]
+      },
+      {
+        "id": 130,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Every year on the last day of school, what do Mom & Ryan go to the Public Library to pick out?",
+        "type": "multiple-choice",
+        "correctAnswer": "one cookbook",
+        "pageReference": 156,
+        "choices": [
+          "one cookbook",
+          "buy tickets to Oaks Amusement Park",
+          "one knitting book",
+          "summer reading books",
+          "craft supplies",
+          "movie tickets",
+          "board games",
+          "art supplies",
+          "music books",
+          "gardening books"
+        ]
+      },
+      {
+        "id": 131,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "Ms. Laura visits Ryan's home to show a color picture of 2 girls wearing hairpins.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 159,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 132,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "What is the name of the job Ryan does for the Talent Show?",
+        "type": "multiple-choice",
+        "correctAnswer": "MC or emcee",
+        "pageReference": 163,
+        "choices": [
+          "MC or emcee",
+          "Stage Manager",
+          "Lighting Director",
+          "Sound Technician",
+          "Ticket Collector",
+          "Program Distributor",
+          "Backstage Helper",
+          "Usher",
+          "Props Manager",
+          "Curtain Operator"
+        ]
+      },
+      {
+        "id": 133,
+        "bookTitle": "Ways to Make Sunshine",
+        "question": "After the Talent Show, what is written on the chocolate cake with white frosting?",
+        "type": "multiple-choice",
+        "correctAnswer": "2+1=3",
+        "pageReference": 168,
+        "choices": [
+          "2+1=3",
+          "Congratulations",
+          "Great Job",
+          "Well Done",
+          "You're A Star",
+          "Thank You",
+          "Happy Day",
+          "Success",
+          "Bravo",
+          "The End"
         ]
       }
     ]
