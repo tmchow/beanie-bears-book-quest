@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import FeedbackAnimation from './components/FeedbackAnimation';
 import audioManager from './lib/AudioManager';
+import BookSelection from './components/BookSelection';
 
 interface Question {
   id: number;
@@ -30,11 +31,14 @@ export default function Home() {
   const [showSettings, setShowSettings] = useState(false);
   const [usedQuestionIds, setUsedQuestionIds] = useState<number[]>([]);
   const [fetchTrigger, setFetchTrigger] = useState(0);
+  const [selectedBooks, setSelectedBooks] = useState<string[]>([]);
+  const [showBookSelection, setShowBookSelection] = useState(true);
 
   useEffect(() => {
     setIsClient(true);
     const savedScore = localStorage.getItem('quizScore');
     const savedBestStreak = localStorage.getItem('bestStreak');
+    const savedSelectedBooks = localStorage.getItem('selectedBooks');
     
     if (savedScore) {
       setScore(parseInt(savedScore));
@@ -42,17 +46,25 @@ export default function Home() {
     if (savedBestStreak) {
       setBestStreak(parseInt(savedBestStreak));
     }
+    if (savedSelectedBooks) {
+      const books = JSON.parse(savedSelectedBooks);
+      setSelectedBooks(books);
+      setShowBookSelection(false);
+    }
   }, []);
 
   useEffect(() => {
     if (isClient) {
       localStorage.setItem('quizScore', score.toString());
       localStorage.setItem('bestStreak', bestStreak.toString());
+      localStorage.setItem('selectedBooks', JSON.stringify(selectedBooks));
     }
-  }, [score, isClient, bestStreak]);
+  }, [score, isClient, bestStreak, selectedBooks]);
 
   useEffect(() => {
     const fetchQuestion = async () => {
+      if (showBookSelection || selectedBooks.length === 0) return;
+      
       try {
         setIsLoading(true);
         setError(null);
@@ -62,7 +74,10 @@ export default function Home() {
           headers: {
             'Content-Type': 'application/json',
           },
-          body: JSON.stringify({ usedQuestionIds }),
+          body: JSON.stringify({ 
+            usedQuestionIds,
+            selectedBooks 
+          }),
         });
 
         if (!response.ok) {
@@ -95,7 +110,7 @@ export default function Home() {
     };
 
     fetchQuestion();
-  }, [fetchTrigger]);
+  }, [fetchTrigger, showBookSelection, selectedBooks]);
 
   const handleAnswerSelect = async (answer: string) => {
     if (isAnswered) return;
@@ -127,10 +142,13 @@ export default function Home() {
   };
 
   const handleReset = () => {
+    setShowBookSelection(true);
+    setSelectedBooks([]);
     setScore(0);
     setStreak(0);
     setUsedQuestionIds([]);
-    setFetchTrigger(prev => prev + 1);
+    localStorage.removeItem('selectedBooks');
+    setShowSettings(false);
   };
 
   const handleClearAllData = () => {
@@ -142,6 +160,23 @@ export default function Home() {
     setUsedQuestionIds([]);
     setShowSettings(false);
   };
+
+  const handleStartQuiz = (books: string[]) => {
+    setSelectedBooks(books);
+    setShowBookSelection(false);
+    setScore(0);
+    setStreak(0);
+    setUsedQuestionIds([]);
+    setFetchTrigger(prev => prev + 1);
+  };
+
+  if (showBookSelection) {
+    return (
+      <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
+        <BookSelection onStart={handleStartQuiz} />
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-purple-50 dark:from-purple-950 dark:to-blue-950 p-8 font-fredoka">
@@ -222,14 +257,16 @@ export default function Home() {
                   </div>
                 </div>
                 
-                <button
-                  onClick={handleReset}
-                  className="bg-purple-200 text-purple-700 dark:bg-purple-800 dark:text-purple-200 
-                    px-3 sm:px-4 py-2 rounded-full hover:bg-purple-300 dark:hover:bg-purple-700 
-                    transition transform hover:scale-105 text-xs sm:text-sm font-medium ml-auto"
-                >
-                  Restart Game
-                </button>
+                <div className="flex justify-center space-x-4">
+                  <button
+                    onClick={handleReset}
+                    className="bg-purple-200 text-purple-700 dark:bg-purple-800 dark:text-purple-200 
+                      px-3 sm:px-4 py-2 rounded-full hover:bg-purple-300 dark:hover:bg-purple-700 
+                      transition-colors duration-200"
+                  >
+                    Restart Game
+                  </button>
+                </div>
               </div>
             </div>
           )}
