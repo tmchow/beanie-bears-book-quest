@@ -1,6 +1,6 @@
 {
     "metadata": {
-      "totalQuestions": 76,
+      "totalQuestions": 91,
       "books": [
         {
           "title": "When You Trap a Tiger",
@@ -9,6 +9,10 @@
         {
           "title": "Shiny Misfits",
           "questionCount": 36
+        },
+        {
+          "title": "King of the Ice",
+          "questionCount": 15
         }
       ]
     },
@@ -1289,6 +1293,262 @@
           "sacred items",
           "personal belongings",
           "childhood memories"
+        ]
+      },
+      {
+        "id": 77,
+        "bookTitle": "King of the Ice",
+        "question": "Mile's parents are from Pittsburgh.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 1,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 78,
+        "bookTitle": "King of the Ice",
+        "question": "Where did Mile's parents meet?",
+        "type": "multiple-choice",
+        "correctAnswer": "A roller rink",
+        "pageReference": 1,
+        "choices": [
+          "A roller rink",
+          "A movie theatre",
+          "An Italian restaurant",
+          "A coffee shop",
+          "A bookstore",
+          "A hockey game",
+          "A college lecture",
+          "A park",
+          "A museum",
+          "A concert"
+        ]
+      },
+      {
+        "id": 79,
+        "bookTitle": "King of the Ice",
+        "question": "What is the name of Mile's teacher?",
+        "type": "multiple-choice",
+        "correctAnswer": "Miss Taylor",
+        "pageReference": 3,
+        "choices": [
+          "Miss Taylor",
+          "Mrs. Johnson",
+          "Miss Rodriguez",
+          "Mrs. Smith",
+          "Miss Parker",
+          "Mrs. Wilson",
+          "Miss Thompson",
+          "Mrs. Davis",
+          "Miss Anderson",
+          "Mrs. Brown"
+        ]
+      },
+      {
+        "id": 80,
+        "bookTitle": "King of the Ice",
+        "question": "What must Miles do to win the bet with RJ?",
+        "type": "multiple-choice",
+        "correctAnswer": "Skate without falling",
+        "pageReference": 10,
+        "choices": [
+          "Skate without falling",
+          "Skate while eating a hotdog",
+          "Chew bubble gum and skate at the same time",
+          "Do a figure eight",
+          "Skate backwards",
+          "Jump while skating",
+          "Spin three times",
+          "Race one lap",
+          "Skate with no hands",
+          "Complete a slalom course"
+        ]
+      },
+      {
+        "id": 81,
+        "bookTitle": "King of the Ice",
+        "question": "Miles has two sisters.",
+        "type": "true-false",
+        "correctAnswer": false,
+        "pageReference": 15,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 82,
+        "bookTitle": "King of the Ice",
+        "question": "What does Mile's dad teach?",
+        "type": "multiple-choice",
+        "correctAnswer": "Black History",
+        "pageReference": 22,
+        "choices": [
+          "Black History",
+          "Zoology",
+          "Geometry",
+          "Literature",
+          "Physics",
+          "Art History",
+          "Chemistry",
+          "Psychology",
+          "Sociology",
+          "Economics"
+        ]
+      },
+      {
+        "id": 83,
+        "bookTitle": "King of the Ice",
+        "question": "Willie O'Ree was the first black hockey player in which league?",
+        "type": "multiple-choice",
+        "correctAnswer": "National Hockey League",
+        "pageReference": 24,
+        "choices": [
+          "National Hockey League",
+          "National Football League",
+          "Major League Baseball Association",
+          "American Hockey League",
+          "World Hockey Association",
+          "Canadian Hockey League",
+          "East Coast Hockey League",
+          "Western Hockey League",
+          "International Hockey League",
+          "Central Hockey League"
+        ]
+      },
+      {
+        "id": 84,
+        "bookTitle": "King of the Ice",
+        "question": "What did RJ wear when he was serious about playing basketball?",
+        "type": "multiple-choice",
+        "correctAnswer": "a blue Air Jordan hoodie",
+        "pageReference": 30,
+        "choices": [
+          "a blue Air Jordan hoodie",
+          "a red Nike sweatshirt",
+          "a black Under Armour jersey",
+          "a white Adidas t-shirt",
+          "a green Champion hoodie",
+          "a gray New Balance jacket",
+          "a yellow Puma sweatshirt",
+          "a purple Lakers jersey",
+          "a blue Bulls jersey",
+          "a black basketball shorts"
+        ]
+      },
+      {
+        "id": 85,
+        "bookTitle": "King of the Ice",
+        "question": "The name of Mile's school is Brookside Elementary.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": 30,
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 86,
+        "bookTitle": "King of the Ice",
+        "question": "When did Nana start living with Mile's family?",
+        "type": "multiple-choice",
+        "correctAnswer": "Kindergarten",
+        "pageReference": 37,
+        "choices": [
+          "Kindergarten",
+          "1st grade",
+          "2nd grade",
+          "Preschool",
+          "3rd grade",
+          "4th grade",
+          "When he was a baby",
+          "Before he was born",
+          "Last summer",
+          "Last winter"
+        ]
+      },
+      {
+        "id": 87,
+        "bookTitle": "King of the Ice",
+        "question": "What is Mile's middle name?",
+        "type": "multiple-choice",
+        "correctAnswer": "DuBois",
+        "pageReference": 74,
+        "choices": [
+          "DuBois",
+          "James",
+          "William",
+          "Thomas",
+          "Michael",
+          "Robert",
+          "Charles",
+          "Anthony",
+          "Joseph",
+          "David"
+        ]
+      },
+      {
+        "id": 88,
+        "bookTitle": "King of the Ice",
+        "question": "After Miles and RJ crash into each other on the ice they make up.",
+        "type": "true-false",
+        "correctAnswer": true,
+        "pageReference": "66-68",
+        "choices": ["True", "False"]
+      },
+      {
+        "id": 89,
+        "bookTitle": "King of the Ice",
+        "question": "What does Miles spread in Nana's garden?",
+        "type": "multiple-choice",
+        "correctAnswer": "mulch",
+        "pageReference": 54,
+        "choices": [
+          "mulch",
+          "fertilizer",
+          "seeds",
+          "compost",
+          "soil",
+          "wood chips",
+          "grass clippings",
+          "leaves",
+          "straw",
+          "peat moss"
+        ]
+      },
+      {
+        "id": 90,
+        "bookTitle": "King of the Ice",
+        "question": "What is Miles worried his Nana might do?",
+        "type": "multiple-choice",
+        "correctAnswer": "move away",
+        "pageReference": 28,
+        "choices": [
+          "move away",
+          "have an incurable disease",
+          "not invite him to her birthday party",
+          "sell the house",
+          "stop gardening",
+          "forget about him",
+          "get sick",
+          "stop cooking",
+          "be lonely",
+          "travel far away"
+        ]
+      },
+      {
+        "id": 91,
+        "bookTitle": "King of the Ice",
+        "question": "What sign will RJ wear if Miles can skate without falling?",
+        "type": "multiple-choice",
+        "correctAnswer": "Miles is the man",
+        "pageReference": null,
+        "choices": [
+          "Miles is the man",
+          "Miles is the cucumber",
+          "Free pizza",
+          "Best skater ever",
+          "Ice king",
+          "Skating champion",
+          "Master of ice",
+          "Rink ruler",
+          "Skating superstar",
+          "Ice wizard"
         ]
       }
     ]
